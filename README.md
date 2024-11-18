@@ -28,6 +28,6 @@ TechFolio Mobile App.
 <img src="login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/tabs.png">  
+<img src="tab.png">  
 
 
