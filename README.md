@@ -22,10 +22,12 @@ TechFolio Mobile App.
 <img src="onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/signup.png">  
+<img src="sign up.jpg">  
 
 # Sign In Screen
 <img src="login.jpg">  
 
 # Tabs Screen
 <img src="assets/images/tabs.png">  
+
+
